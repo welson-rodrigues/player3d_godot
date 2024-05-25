@@ -6,6 +6,7 @@
 - Joystick
 - Modelo 3D
 - Animação de parado, andando, pulando e caindo
+- Zoom in e Zoom out
 - Efeito sonoro de pulo
 - Música de fundo
 ---------
