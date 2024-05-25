@@ -11,5 +11,5 @@
 - Música de fundo
 ---------
 ## Tudo foi feito com apenas um celular e você pode conferir a série completa onde ensino a criar no YouTube:
-[![Videos](https://github.com/welson-rodrigues/imagem_prova_final/blob/8d74f0279cc517735b882bb263c62cb92390ee3a/prova.jpg)](https://www.youtube.com/watch?v=cylU8U_gKmY&list=PLbOzmtrVb7NZ_h28B4-eDqB4PHcZJkk_9&pp=iAQB "Videos")
+[![Videos](https://i.ytimg.com/an_webp/bR8ZweuDtp8/mqdefault_6s.webp?du=3000&sqp=CIKOyLIG&rs=AOn4CLClzJ8b3S17UUGIjcBoWbDaDDNgQA)](https://www.youtube.com/watch?v=cylU8U_gKmY&list=PLbOzmtrVb7NZ_h28B4-eDqB4PHcZJkk_9&pp=iAQB "Videos")
 
